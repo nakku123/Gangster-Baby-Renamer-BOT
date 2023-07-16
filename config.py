@@ -12,7 +12,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "-1001805053423")
 
 DB_NAME = os.environ.get("DB_NAME","Rename")     
 
-DB_URL = os.environ.get("DB_URL","")
+DB_URL = os.environ.get("DB_URL","mongodb+srv://mithunkrishna:mithunkrishna@rename.xcxgov0.mongodb.net/?retryWrites=true&w=majority")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
