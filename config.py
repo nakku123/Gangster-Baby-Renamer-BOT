@@ -6,11 +6,11 @@ API_ID = os.environ.get("API_ID", "9439609")
 
 API_HASH = os.environ.get("API_HASH", "3a64962f1face2fc285d0bb72587b139")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6344069829:AAHhElUz1o8zcNRmDF8FmvTLAAoPu1XJcuo") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "-1001805053423") 
 
-DB_NAME = os.environ.get("DB_NAME","")     
+DB_NAME = os.environ.get("DB_NAME","Rename")     
 
 DB_URL = os.environ.get("DB_URL","")
  
