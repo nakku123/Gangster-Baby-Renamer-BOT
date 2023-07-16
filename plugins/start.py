@@ -16,8 +16,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Telegram Link : https://t.me/LazyDeveloper 
-Repo Link : https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT
+Telegram Link : https://t.me/memes_mithun
+Repo Link : private
 License Link : https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT/blob/main/LICENSE
 """
 
@@ -41,20 +41,20 @@ async def start(client, message):
     button=InlineKeyboardMarkup([[
         InlineKeyboardButton("😈 Developer 😈", callback_data='dev')
         ],[
-        InlineKeyboardButton('📢 Updates', url='https://t.me/LazyDeveloper'),
-        InlineKeyboardButton('🤝 Support', url='https://t.me/LazyPrincessSupport')
+        InlineKeyboardButton('📢 Updates', url='https://t.me/memes_mithun'),
+        InlineKeyboardButton('🤝 Support', url='https://t.me/MemesMithun')
         ],[
         InlineKeyboardButton('⚡️ About', callback_data='about'),
         InlineKeyboardButton('🤕 Help', callback_data='help')
         ],[
-        InlineKeyboardButton("🙋🏻 How to make this BOT ? ", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
+        InlineKeyboardButton("🙋🏻 ⚡group⚡  ", url='https://t.me/englishkaaran3')
         ],[
-        InlineKeyboardButton("🎬 Join Our Movie Channel !", url='https://t.me/+WwDm2ByFlz80YTY9')
+        InlineKeyboardButton("🎬 Join Our Movie Channel !", url='https://t.me/englishkaaranmain')
         ],[
-        InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
+        InlineKeyboardButton("❤️ creator ❤️", url='https://t.me/memes_mithun')
         ],[
-        InlineKeyboardButton("📝Admin-TG", url='https://t.me/mRiderDM'),
-        InlineKeyboardButton("📝Admin-Insta", url='https://instagram.com/LazyDeveloperrr')
+        InlineKeyboardButton("📝Admin-TG", url='https://t.me/memes_mithun'),
+        InlineKeyboardButton("📝Admin-Insta", url='https://www.instagram.com/mithu_n_2023/')
         ]
         ])
     if START_PIC:
@@ -100,20 +100,20 @@ async def cb_handler(client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup( [[
         InlineKeyboardButton("😈 Developer 😈", callback_data='dev')
         ],[
-        InlineKeyboardButton('📢 Updates', url='https://t.me/LazyDeveloper'),
-        InlineKeyboardButton('🤝 Support', url='https://t.me/LazyPrincessSupport')
+        InlineKeyboardButton('📢 Updates', url='https://t.me/memes_mithun'),
+        InlineKeyboardButton('🤝 Support', url='https://t.me/memes_mithun')
         ],[
         InlineKeyboardButton('⚡️ About', callback_data='about'),
         InlineKeyboardButton('🤕 Help', callback_data='help')
         ],[
-        InlineKeyboardButton("🙋🏻 How to make this BOT ? ", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
+        InlineKeyboardButton("🙋🏻 How to make  BOT ? ", url='https://t.me/memes_mithun')
         ],[
-        InlineKeyboardButton("🎬 Join Our Movie Channel !", url='https://t.me/+WwDm2ByFlz80YTY9')
+        InlineKeyboardButton("🎬 Join Our Movie Channel !", url='https://t.me/englishkaaranmain')
         ],[
-        InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
+        InlineKeyboardButton("❤️ Subscribe ❤️", url='https://t.me/memes_mithun')
         ],[
-        InlineKeyboardButton("📝Admin-TG", url='https://t.me/mRiderDM'),
-        InlineKeyboardButton("📝Admin-Insta", url='https://instagram.com/LazyDeveloperrr')
+        InlineKeyboardButton("📝Admin-TG", url='https://t.me/MemesMithun'),
+        InlineKeyboardButton("📝Admin-Insta", url='https://www.instagram.com/mithu_n_2023/')
         ]
         ]
                 )
@@ -123,11 +123,11 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.HELP_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ Contact Admin ❣️", url="https://www.instagram.com/LazyDeveloperrr")
+               InlineKeyboardButton("❣️ Contact Admin ❣️", url="https://www.instagram.com/mithu_n_2023/")
                ],[
-               InlineKeyboardButton("❤️‍🔥 How to use me ? ❤️‍🔥", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
+               InlineKeyboardButton("❤️‍🔥 How to use me ? ❤️‍🔥", url='https://www.youtube.com/')
                ],[
-               InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/+WwDm2ByFlz80YTY9")
+               InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/englishkaaranmain")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -140,11 +140,11 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ Developer ❣️", url="https://www.instagram.com/LazyDeveloperrr")
+               InlineKeyboardButton("❣️ Developer ❣️", url="https://www.instagram.com/mithu_n_2023")
                ],[
-               InlineKeyboardButton("❤️‍🔥 How to make me ? ❤️‍🔥", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
+               InlineKeyboardButton("❤️‍🔥 How to make me ? ❤️‍🔥", url='https://t.me/memes_mithun')
                ],[
-                InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/+WwDm2ByFlz80YTY9")
+                InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/englishkaaranmain")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -156,11 +156,11 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.DEV_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ Developer ❣️", url="https://www.instagram.com/LazyDeveloperrr")
+               InlineKeyboardButton("❣️ Developer ❣️", url="https://www.instagram.com/mithu_n_2023")
                ],[
-               InlineKeyboardButton("❤️‍🔥 How to make me ? ❤️‍🔥", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
+               InlineKeyboardButton("❤️‍🔥 How to make me ? ❤️‍🔥", url='https://t.me/memes_mithun')
                ],[
-                InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/+WwDm2ByFlz80YTY9")
+                InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/englishkaaranmain")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
