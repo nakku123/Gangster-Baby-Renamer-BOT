@@ -71,7 +71,7 @@ Example:- /set_caption 📕 File Name: {filename}
     DEV_TXT = ""
 <b><u>Special Thanks & Developers</b></u> 
 
-» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://t.me/memes_mithun>𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲</a>
+ 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://t.me/memes_mithun>𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲</a>
 
 • 😈 <a href=https://github.com/nakku123>Me Github</a>
 • 😈 <a href=https://t.me/memes_mithun>mithun Tg Channel</a>
