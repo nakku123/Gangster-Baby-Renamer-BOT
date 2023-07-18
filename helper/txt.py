@@ -68,8 +68,7 @@ Example:- /set_caption 📕 File Name: {filename}
 """
 
 #⚠️ don't remove our credits 🙏😢😢
-    DEV_TXT = ""
-<b><u>Special Thanks & Developers</b></u> 
+    DEV_TXT ="https://t.me/englishkaaranmain"
 
  𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://t.me/memes_mithun>𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲</a>
 
